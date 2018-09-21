@@ -5,7 +5,7 @@ public class JvmCode {
         char han1 = 0x6c38;
         char han2 = '永';
         System.out.println(han1);
-        System.out.format("%x",(short)han2);
+        System.out.format("%x", (short) han2);
 
     }
 

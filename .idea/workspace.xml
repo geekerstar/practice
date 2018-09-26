@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0d6c13dd-6f39-4480-9361-94e30f545de8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/geekerstar/al01/dividevyzero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekerstar/al01/dividevyzero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geekerstar/ji05/Ipp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekerstar/ji05/Ipp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geekerstar/ji05/JvmCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekerstar/ji05/JvmCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,35 +19,36 @@
     <session id="-483254083">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="25" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="25" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1250" />
+          <entry key="java" value="3192" />
           <entry key="md" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1250" />
+          <entry key="JAVA" value="3192" />
           <entry key="Markdown" value="42" />
         </counts>
       </usages-collector>
@@ -54,10 +57,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/hello.java">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/array/TwoSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="390">
+              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -89,7 +92,14 @@
         <option value="$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/hello.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/order.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/Base.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/other/sanyuan.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/other/BianLi.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/other/array/GetMaxMin.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/other/array/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/other/array/SelectDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/other/array/BubbleDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/other/array/TwoSearch.java" />
       </list>
     </option>
   </component>
@@ -107,9 +117,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="280" />
-    <option name="y" value="120" />
-    <option name="width" value="1400" />
+    <option name="x" value="827" />
+    <option name="y" value="141" />
+    <option name="width" value="960" />
     <option name="height" value="673" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -120,8 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,12 +153,14 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="geekerstar" type="462c0819:PsiDirectoryNode" />
-              <item name="s04" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +168,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,13 +182,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Derived">
-    <configuration name="Derived" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekerstar.javabsmsbd.s04.Derived" />
+  <component name="RunManager" selected="Application.TwoSearch">
+    <configuration name="BubbleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekerstar.other.array.BubbleDemo" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekerstar.javabsmsbd.s04.*" />
+          <option name="PATTERN" value="com.geekerstar.other.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="charOrInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekerstar.ji05.charOrInt" />
+    <configuration name="GetMaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekerstar.other.array.GetMaxMin" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekerstar.ji05.*" />
+          <option name="PATTERN" value="com.geekerstar.other.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekerstar.javabsmsbd.s04.hello" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekerstar.other.array.Reverse" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekerstar.javabsmsbd.s04.*" />
+          <option name="PATTERN" value="com.geekerstar.other.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jpp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekerstar.ji05.jpp" />
+    <configuration name="SelectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekerstar.other.array.SelectDemo" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekerstar.ji05.*" />
+          <option name="PATTERN" value="com.geekerstar.other.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pvf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekerstar.JI06.pvf" />
+    <configuration name="TwoSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekerstar.other.array.TwoSearch" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekerstar.JI06.*" />
+          <option name="PATTERN" value="com.geekerstar.other.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.jpp" />
-      <item itemvalue="Application.charOrInt" />
-      <item itemvalue="Application.pvf" />
-      <item itemvalue="Application.hello" />
-      <item itemvalue="Application.Derived" />
+      <item itemvalue="Application.GetMaxMin" />
+      <item itemvalue="Application.Reverse" />
+      <item itemvalue="Application.SelectDemo" />
+      <item itemvalue="Application.BubbleDemo" />
+      <item itemvalue="Application.TwoSearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Derived" />
-        <item itemvalue="Application.hello" />
-        <item itemvalue="Application.pvf" />
-        <item itemvalue="Application.charOrInt" />
-        <item itemvalue="Application.jpp" />
+        <item itemvalue="Application.TwoSearch" />
+        <item itemvalue="Application.BubbleDemo" />
+        <item itemvalue="Application.SelectDemo" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.GetMaxMin" />
       </list>
     </recent_temporary>
   </component>
@@ -271,29 +281,35 @@
       <workItem from="1537492755270" duration="1467000" />
       <workItem from="1537503226284" duration="2156000" />
       <workItem from="1537514318290" duration="346000" />
+      <workItem from="1537526515889" duration="652000" />
+      <workItem from="1537865761183" duration="263000" />
+      <workItem from="1537927317202" duration="1907000" />
+      <workItem from="1537929251117" duration="1067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6001000" />
+    <option name="totallyTimeSpent" value="9890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="120" width="1400" height="673" extended-state="0" />
+    <frame x="977" y="142" width="960" height="673" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15832107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32874355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46127367" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46127367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39931154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32874355" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32874355" />
@@ -367,13 +383,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/order.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -385,6 +394,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/sanyuan.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/javabsmsbd/s04/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/array/GetMaxMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/array/BianLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/array/SelectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/array/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/array/BubbleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/other/array/TwoSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
         </state>
       </provider>
     </entry>
